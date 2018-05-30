@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://kaiweitalk.com/"/>
   <updated>2018-05-30T05:37:21.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://kaiweitalk.com/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>2018 年 Java Web 开发和 Android 开发哪个更有前景</title>
-    <link href="http://yoursite.com/2018/05/29/2018-%E5%B9%B4-Java-Web-%E5%BC%80%E5%8F%91%E5%92%8C-Android-%E5%BC%80%E5%8F%91%E5%93%AA%E4%B8%AA%E6%9B%B4%E6%9C%89%E5%89%8D%E6%99%AF/"/>
-    <id>http://yoursite.com/2018/05/29/2018-年-Java-Web-开发和-Android-开发哪个更有前景/</id>
+    <link href="http://kaiweitalk.com/2018/05/29/2018-%E5%B9%B4-Java-Web-%E5%BC%80%E5%8F%91%E5%92%8C-Android-%E5%BC%80%E5%8F%91%E5%93%AA%E4%B8%AA%E6%9B%B4%E6%9C%89%E5%89%8D%E6%99%AF/"/>
+    <id>http://kaiweitalk.com/2018/05/29/2018-年-Java-Web-开发和-Android-开发哪个更有前景/</id>
     <published>2018-05-29T07:42:51.000Z</published>
     <updated>2018-05-30T05:37:21.000Z</updated>
     
@@ -35,21 +35,21 @@
     
     </summary>
     
-      <category term="资讯" scheme="http://yoursite.com/categories/%E8%B5%84%E8%AE%AF/"/>
+      <category term="资讯" scheme="http://kaiweitalk.com/categories/%E8%B5%84%E8%AE%AF/"/>
     
     
-      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+      <category term="Java" scheme="http://kaiweitalk.com/tags/Java/"/>
     
-      <category term="后台开发" scheme="http://yoursite.com/tags/%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91/"/>
+      <category term="后台开发" scheme="http://kaiweitalk.com/tags/%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91/"/>
     
-      <category term="后端开发" scheme="http://yoursite.com/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+      <category term="后端开发" scheme="http://kaiweitalk.com/tags/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
   <entry>
     <title>随着python的崛起，Java是否会在未来几年没落</title>
-    <link href="http://yoursite.com/2018/05/29/%E9%9A%8F%E7%9D%80python%E7%9A%84%E5%B4%9B%E8%B5%B7%EF%BC%8CJava%E6%98%AF%E5%90%A6%E4%BC%9A%E5%9C%A8%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E6%B2%A1%E8%90%BD/"/>
-    <id>http://yoursite.com/2018/05/29/随着python的崛起，Java是否会在未来几年没落/</id>
+    <link href="http://kaiweitalk.com/2018/05/29/%E9%9A%8F%E7%9D%80python%E7%9A%84%E5%B4%9B%E8%B5%B7%EF%BC%8CJava%E6%98%AF%E5%90%A6%E4%BC%9A%E5%9C%A8%E6%9C%AA%E6%9D%A5%E5%87%A0%E5%B9%B4%E6%B2%A1%E8%90%BD/"/>
+    <id>http://kaiweitalk.com/2018/05/29/随着python的崛起，Java是否会在未来几年没落/</id>
     <published>2018-05-29T07:41:56.000Z</published>
     <updated>2018-05-30T05:38:28.000Z</updated>
     
@@ -64,19 +64,19 @@
     
     </summary>
     
-      <category term="资讯" scheme="http://yoursite.com/categories/%E8%B5%84%E8%AE%AF/"/>
+      <category term="资讯" scheme="http://kaiweitalk.com/categories/%E8%B5%84%E8%AE%AF/"/>
     
     
-      <category term="Java" scheme="http://yoursite.com/tags/Java/"/>
+      <category term="Java" scheme="http://kaiweitalk.com/tags/Java/"/>
     
-      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+      <category term="Python" scheme="http://kaiweitalk.com/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>怎么看待程序员普遍缺乏数据结构和算法的知识</title>
-    <link href="http://yoursite.com/2018/05/29/%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E7%A8%8B%E5%BA%8F%E5%91%98%E6%99%AE%E9%81%8D%E7%BC%BA%E4%B9%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E7%9A%84%E7%9F%A5%E8%AF%86/"/>
-    <id>http://yoursite.com/2018/05/29/怎么看待程序员普遍缺乏数据结构和算法的知识/</id>
+    <link href="http://kaiweitalk.com/2018/05/29/%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E7%A8%8B%E5%BA%8F%E5%91%98%E6%99%AE%E9%81%8D%E7%BC%BA%E4%B9%8F%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E7%9A%84%E7%9F%A5%E8%AF%86/"/>
+    <id>http://kaiweitalk.com/2018/05/29/怎么看待程序员普遍缺乏数据结构和算法的知识/</id>
     <published>2018-05-29T07:40:35.000Z</published>
     <updated>2018-05-30T05:38:22.000Z</updated>
     
@@ -92,17 +92,17 @@
     
     </summary>
     
-      <category term="资讯" scheme="http://yoursite.com/categories/%E8%B5%84%E8%AE%AF/"/>
+      <category term="资讯" scheme="http://kaiweitalk.com/categories/%E8%B5%84%E8%AE%AF/"/>
     
     
-      <category term="程序员" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
+      <category term="程序员" scheme="http://kaiweitalk.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98/"/>
     
   </entry>
   
   <entry>
     <title>做算法工程师是什么样的工作体验？</title>
-    <link href="http://yoursite.com/2018/05/29/%E5%81%9A%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BD%93%E9%AA%8C%EF%BC%9F/"/>
-    <id>http://yoursite.com/2018/05/29/做算法工程师是什么样的工作体验？/</id>
+    <link href="http://kaiweitalk.com/2018/05/29/%E5%81%9A%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%B7%A5%E4%BD%9C%E4%BD%93%E9%AA%8C%EF%BC%9F/"/>
+    <id>http://kaiweitalk.com/2018/05/29/做算法工程师是什么样的工作体验？/</id>
     <published>2018-05-29T07:39:17.000Z</published>
     <updated>2018-05-30T05:38:11.000Z</updated>
     
@@ -117,17 +117,17 @@
     
     </summary>
     
-      <category term="资讯" scheme="http://yoursite.com/categories/%E8%B5%84%E8%AE%AF/"/>
+      <category term="资讯" scheme="http://kaiweitalk.com/categories/%E8%B5%84%E8%AE%AF/"/>
     
     
-      <category term="故事" scheme="http://yoursite.com/tags/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://kaiweitalk.com/tags/%E6%95%85%E4%BA%8B/"/>
     
   </entry>
   
   <entry>
     <title>Web后台学不下去 迷茫 怎么办?</title>
-    <link href="http://yoursite.com/2018/05/29/web%E5%90%8E%E5%8F%B0%E5%AD%A6%E4%B8%8D%E4%B8%8B%E5%8E%BB-%E8%BF%B7%E8%8C%AB-%E6%80%8E%E4%B9%88%E5%8A%9E/"/>
-    <id>http://yoursite.com/2018/05/29/web后台学不下去-迷茫-怎么办/</id>
+    <link href="http://kaiweitalk.com/2018/05/29/web%E5%90%8E%E5%8F%B0%E5%AD%A6%E4%B8%8D%E4%B8%8B%E5%8E%BB-%E8%BF%B7%E8%8C%AB-%E6%80%8E%E4%B9%88%E5%8A%9E/"/>
+    <id>http://kaiweitalk.com/2018/05/29/web后台学不下去-迷茫-怎么办/</id>
     <published>2018-05-29T07:36:45.000Z</published>
     <updated>2018-05-30T02:52:03.000Z</updated>
     
@@ -143,17 +143,17 @@
     
     </summary>
     
-      <category term="资讯" scheme="http://yoursite.com/categories/%E8%B5%84%E8%AE%AF/"/>
+      <category term="资讯" scheme="http://kaiweitalk.com/categories/%E8%B5%84%E8%AE%AF/"/>
     
     
-      <category term="心理建设" scheme="http://yoursite.com/tags/%E5%BF%83%E7%90%86%E5%BB%BA%E8%AE%BE/"/>
+      <category term="心理建设" scheme="http://kaiweitalk.com/tags/%E5%BF%83%E7%90%86%E5%BB%BA%E8%AE%BE/"/>
     
   </entry>
   
   <entry>
     <title>程序员面试，面试官更注重代码量、项目经验还是操作系统、数据结构这种基础课程？两者比例是五五开还是多少？</title>
-    <link href="http://yoursite.com/2018/05/29/what-interviewer-care-about-half-half/"/>
-    <id>http://yoursite.com/2018/05/29/what-interviewer-care-about-half-half/</id>
+    <link href="http://kaiweitalk.com/2018/05/29/what-interviewer-care-about-half-half/"/>
+    <id>http://kaiweitalk.com/2018/05/29/what-interviewer-care-about-half-half/</id>
     <published>2018-05-29T07:31:49.000Z</published>
     <updated>2018-05-30T05:37:42.000Z</updated>
     
@@ -167,15 +167,15 @@
     
     </summary>
     
-      <category term="面试经验" scheme="http://yoursite.com/categories/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C/"/>
+      <category term="面试经验" scheme="http://kaiweitalk.com/categories/%E9%9D%A2%E8%AF%95%E7%BB%8F%E9%AA%8C/"/>
     
     
   </entry>
   
   <entry>
     <title>为什么美国程序员工作比中国程序员工作轻松、加班少？</title>
-    <link href="http://yoursite.com/2018/05/29/why-us-sde-easier-than-us/"/>
-    <id>http://yoursite.com/2018/05/29/why-us-sde-easier-than-us/</id>
+    <link href="http://kaiweitalk.com/2018/05/29/why-us-sde-easier-than-us/"/>
+    <id>http://kaiweitalk.com/2018/05/29/why-us-sde-easier-than-us/</id>
     <published>2018-05-29T07:19:45.000Z</published>
     <updated>2018-05-30T05:37:58.000Z</updated>
     
@@ -189,10 +189,10 @@
     
     </summary>
     
-      <category term="资讯" scheme="http://yoursite.com/categories/%E8%B5%84%E8%AE%AF/"/>
+      <category term="资讯" scheme="http://kaiweitalk.com/categories/%E8%B5%84%E8%AE%AF/"/>
     
     
-      <category term="北美" scheme="http://yoursite.com/tags/%E5%8C%97%E7%BE%8E/"/>
+      <category term="北美" scheme="http://kaiweitalk.com/tags/%E5%8C%97%E7%BE%8E/"/>
     
   </entry>
   
